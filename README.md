@@ -1,6 +1,6 @@
 ### PORTFOLIO HUB
 
-# PROJECT 1 : [MOBILE INTERNET PLANS PRICES AND ANALYSIS] (https://github.com/vinidapooh/Internet-Mobile-Plans-Analysis-2020-2021)
+# PROJECT 1 : [MOBILE INTERNET PLANS PRICES AND ANALYSIS] (https://github.com/vinidapooh/Internet-Mobile-Plans-Analysis)
 
 Visualization : POWER BI
 Data Wrangling : MS SQL Server
